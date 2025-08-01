@@ -95,5 +95,5 @@ Django_webpage/
 
 ## 👨‍💻 Author
 
-**YASH THAKUR**  
-[GitHub Profile](https://github.com/ceYASH)
+**REHAN RAUT**  
+[GitHub Profile](https://github.com/rehanraut)
